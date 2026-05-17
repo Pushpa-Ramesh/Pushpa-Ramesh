@@ -1,32 +1,32 @@
-<h1 align="center">Hi 👋, I'm Pushpa R</h1>
+<h1 align="center">Pushpa R</h1>
 
 <h3 align="center">
 Artificial Intelligence & Machine Learning Student
 </h3>
 
 <h4 align="center">
-Web Developer • Robotics Enthusiast • AI Learner
+Web Developer • AI Enthusiast • Robotics Learner
 </h4>
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pushpa-Ramesh&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pushpa-Ramesh&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Diploma Student in Artificial Intelligence and Machine Learning  
-- 💡 Passionate about AI, Robotics, and Modern Web Technologies  
-- 🌱 Currently learning Deep Learning and Intelligent Systems  
-- 🚀 Interested in building innovative real-world projects  
-- 📍 Karnataka, India  
+Dedicated Diploma student in Artificial Intelligence and Machine Learning with foundational knowledge in Python programming, Machine Learning, Robotics, and Web Development.
+
+Passionate about developing innovative software solutions and intelligent systems while continuously improving technical and problem-solving skills.
+
+📍 Karnataka, India
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact
 
 <p align="left">
 
@@ -42,7 +42,7 @@ Web Developer • Robotics Enthusiast • AI Learner
 
 ---
 
-## 💻 Technical Skills
+## 💻 Skills
 
 <p align="left">
 
@@ -70,27 +70,6 @@ Web Developer • Robotics Enthusiast • AI Learner
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Robot Commander
-Voice-controlled robotic system developed using Python, ROS2, PyTorch, and AI technologies.
-
-### 🏥 Smart Health Assistant
-Healthcare web application for medicine analysis and multilingual remedy suggestions.
-
-### 🏫 Janani College Website
-Responsive and user-friendly college website developed using HTML, CSS, and JavaScript.
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpa-Ramesh&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 <h3 align="center">
-✨ Passionate About Building Intelligent and Innovative Solutions ✨
+Professional GitHub Profile
 </h3>
