@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pushpa R</h1>
+<h1 align="center">Pushpa R</h1>
 
 <h3 align="center">
 Artificial Intelligence & Machine Learning Student
@@ -11,18 +11,18 @@ Web Developer • Robotics Enthusiast • AI Learner
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pushpa-Ramesh&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pushpa-Ramesh&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Diploma Student in Artificial Intelligence and Machine Learning  
-- 💡 Passionate about AI, Robotics, and Modern Web Technologies  
-- 🌱 Currently learning Deep Learning and Intelligent Systems  
-- 🚀 Interested in building innovative real-world projects  
-- 📍 Karnataka, India  
+Dedicated Diploma student in Artificial Intelligence and Machine Learning with foundational knowledge in Python programming, Machine Learning, Robotics, and Web Development.
+
+Passionate about developing innovative software solutions and intelligent systems while continuously improving technical and problem-solving skills.
+
+📍 Karnataka, India
 
 ---
 
@@ -83,10 +83,20 @@ Responsive and user-friendly college website developed using HTML, CSS, and Java
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Most Used Technologies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpa-Ramesh&layout=compact&theme=tokyonight"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
 </p>
 
 ---
