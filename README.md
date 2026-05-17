@@ -70,7 +70,7 @@ Web Developer • Robotics Enthusiast • AI Learner
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🤖 Robot Commander
 Voice-controlled robotic system developed using Python, ROS2, PyTorch, and AI technologies.
